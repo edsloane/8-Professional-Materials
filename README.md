@@ -12,4 +12,6 @@ Updated Portfolio, LinkedIn etc...
 
 * Updated LinkedIn profile
 
+![Folio](https://edsloane.github.io/8-Professional-Materials/)
+
 

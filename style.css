@@ -67,8 +67,15 @@ a{
     padding: 5px;
     font-size: 1.2rem;
     padding-left: 0;
-    width: 300px;
+    width: 250px;
 }
+
+.one:hover{
+    color: #fff;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
 /* animations / utilities */
 .section-2 a:hover{
     font-size: 1.3rem;
